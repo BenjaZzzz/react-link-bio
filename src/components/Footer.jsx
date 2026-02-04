@@ -1,7 +1,9 @@
+import info from "../data/info";
+
 const Footer = () => {
   return (
     <footer className="footer">
-      <p>&copy; 2024 Jane Doe. All rights reserved.</p>
+      <p>{`© 2024 ${info.name}. All rights reserved.`}</p>
     </footer>
   );
 };
