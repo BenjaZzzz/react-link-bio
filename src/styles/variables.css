@@ -1,0 +1,24 @@
+:root {
+  --font-main: 'Inter', sans-serif;
+
+  --color-primary: #09637E;
+  --color-primary-hover: #088395;
+
+  --color-bg-start: #7AB2B2;
+  --color-bg-end: #EBF4F6;
+
+  --color-text-main: #333;
+  --color-text-muted: #777;
+
+  --radius-sm: 8px;
+  --radius-md: 16px;
+
+  --max-width-card: 500px;
+}
+
+/* 
+  09637E - 
+  088395 - 
+  7AB2B2 -
+  EBF4F6 - 
+*/

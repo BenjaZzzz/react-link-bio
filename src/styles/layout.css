@@ -1,0 +1,16 @@
+main {
+  width: 100%;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+}
+
+.links-card {
+  background-color: #fff;
+  padding: 40px 50px;
+  border-radius: var(--radius-md);
+  max-width: var(--max-width-card);
+  width: 100%;
+  text-align: center;
+}
