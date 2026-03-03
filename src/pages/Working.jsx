@@ -4,9 +4,7 @@ import kirby1 from "../assets/kirby_1.gif"
 import kirby2 from "../assets/kirby_2.gif"
 import kirby3 from "../assets/kirby_3.gif"
 import kirby4 from "../assets/kirby_4.gif"
-
-import "../styles/Working.css"
- 
+import "../styles/working.css" 
  function Working() {
     const [currentIndex, setCurrentIndex] = useState(0);
 
