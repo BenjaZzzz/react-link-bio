@@ -14,3 +14,22 @@ main {
   width: 100%;
   text-align: center;
 }
+
+@media (max-width: 480px) {
+  main{
+    padding: 12px 12px;
+  }
+
+  .links-card{
+    padding: 30px;
+  }
+
+  .avatar{
+    width: 100px;
+    height: 100px;
+  }
+  .footer{
+    margin-bottom: 1em;
+    font-size: 3.5em;
+  }
+}
